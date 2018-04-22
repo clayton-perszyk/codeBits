@@ -1,0 +1,32 @@
+table {
+    margin: auto;
+    width: 50%;
+}
+th, td {
+  border: 1px solid black;
+  padding: 10px;
+  text-align: center;
+  font-family: Helvetica;
+}
+
+th {
+  background-color: rgba(192,192,192, 0.6);
+}
+
+button {
+  font-size: 16px;
+  padding: 10px;
+  width: 100%;
+}
+
+button#delete {
+  background-color: rgba(255, 0, 0, 0.5);;
+}
+
+button#add {
+  background-color:rgba(144, 238, 144, 0.6);
+}
+
+input {
+  background-color: #FFFFE0;
+}
