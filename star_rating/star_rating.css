@@ -1,0 +1,13 @@
+#star-container {
+  border: 1px solid black;
+  display: inline-block;
+  height: 50px;
+  padding: 10px;
+  background-color: turquoise;
+}
+
+.star {
+  height: 100%;
+  width: auto;
+  cursor: pointer;
+}
